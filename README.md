@@ -6,8 +6,8 @@
 * Will draw map with path highlighted in red from specified start intersection to specified goal intersections
 
 * Files:
-*	AStarGPSSearch.cc 	//Contains all code specific to this project (Main function)
-*	ChainingStringHashMap.h 	//Helper header file I created with an implementation of string->template hash map which uses chaining to deal with collisions
-*	CSVRead.h 	//Helper header file I created to read from CSV files
-*	myGraphics.h 	//Helper header file I created with super rudimentary graphics implementation using SDL2 framework
-*	monroe.txt, nys.txt, ur.txt 	//Sample data sets
+  *	AStarGPSSearch.cc 	//Contains all code specific to this project (Main function)
+  *	ChainingStringHashMap.h 	//Helper header file I created with an implementation of string->template hash map which uses chaining to deal with collisions
+  *	CSVRead.h 	//Helper header file I created to read from CSV files
+  *	myGraphics.h 	//Helper header file I created with super rudimentary graphics implementation using SDL2 framework
+  *	monroe.txt, nys.txt, ur.txt 	//Sample data sets
