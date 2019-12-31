@@ -1,8 +1,8 @@
-* An independent project I did to implement a* search in C++
+* **An independent project I did to implement a* search in C++**
 * Reads intersection/road data from CSV files to create map
 *	CSV files must be of the format:
-*		i,intersection-name,intersection-latitude,intersection-longitude  //For intersections
-*		r,road-name,intersection-1,intersection-2   //For roads
+ * i,intersection-name,intersection-latitude,intersection-longitude  //For intersections
+ *	r,road-name,intersection-1,intersection-2   //For roads
 * Will draw map with path highlighted in red from specified start intersection to specified goal intersections
 
 * Files:
